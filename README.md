@@ -1,3 +1,4 @@
-# COREISP
+## Core ISP Server Status
 
-## [NOTE] Building Documents
+[![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/bt44.svg)](https://betteruptime.com/?utm_source=status_badge)
+
